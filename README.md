@@ -1,5 +1,6 @@
 # fajita (OnePlus 6T)
 
-- cr9.13_test1
-- cr10.1_test1
-- cr9.13_test2
+- 9.13_test1
+- 10.1_test1
+- 9.13_test2
+- 10.1_test2
