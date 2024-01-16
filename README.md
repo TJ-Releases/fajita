@@ -1,3 +1,4 @@
 # fajita (OnePlus 6T)
 
-- Upload cr9.13_test1
+- cr9.13_test1
+- cr10.1_test1
