@@ -23,3 +23,4 @@
 - 10.2_next8
 - 10.4_test1
 - 10.4_test2
+- 10.4_release
