@@ -24,3 +24,4 @@
 - 10.4_test1
 - 10.4_test2
 - 10.4_release
+- 10.5_test1
