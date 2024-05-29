@@ -29,3 +29,5 @@
 - 9.17_test1
 - 9.17_rc1
 - 10.5_rc1
+- 9.17_rc2 - now signed with releasekeys!
+- 10.5_rc2 - now signed with releasekeys!
