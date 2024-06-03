@@ -31,3 +31,5 @@
 - 10.5_rc1
 - 9.17_rc2 - now signed with releasekeys!
 - 10.5_rc2 - now signed with releasekeys!
+- 9.17_rc3
+- 10.5_rc3
