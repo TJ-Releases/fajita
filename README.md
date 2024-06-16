@@ -34,3 +34,4 @@
 - 9.17_rc3
 - 10.5_rc3
 - 10.5_rc4 - ugh, whatever, should've stayed on test builds I guess
+- 10.5_rc5
