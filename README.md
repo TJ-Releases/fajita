@@ -36,3 +36,4 @@
 - 10.5_rc4 - ugh, whatever, should've stayed on test builds I guess
 - 10.5_rc5
 - 9.17_rc4
+- 10.6-BETA_test1
