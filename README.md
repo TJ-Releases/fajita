@@ -39,4 +39,5 @@
 - 10.6-BETA_test1
 - 10.6_test2
 - 10.6_test3
-- 10.6_test4
+- 10.6_test4 - ded, don't use
+- 10.6_test5
