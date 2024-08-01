@@ -44,3 +44,4 @@
 - 9.17_test5 - oh who am I kidding, they're test builds not release candidates
 - 10.6_test6
 - 10.6_test7
+- 10.6_release
