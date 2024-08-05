@@ -45,3 +45,4 @@
 - 10.6_test6
 - 10.6_test7
 - 10.6_release
+- 10.6_next1
