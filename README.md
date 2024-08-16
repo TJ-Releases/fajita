@@ -47,3 +47,4 @@
 - 10.6_release
 - 10.6_next1
 - 10.6_next2
+- 10.7_test1
