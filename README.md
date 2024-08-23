@@ -49,5 +49,5 @@
 - 10.6_next2
 - 10.7_test1
 - 10.7_test2
-~~- 10.7_test3~~ - speaker audio busted, whoops
+- ~~10.7_test3~~ - speaker audio busted, whoops
 - 10.7_test4
