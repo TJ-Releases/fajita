@@ -53,3 +53,4 @@
 - 10.7_test4
 - 10.7_release
 - 10.8_test1
+- 10.8_test2
