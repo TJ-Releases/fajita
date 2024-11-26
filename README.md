@@ -64,3 +64,4 @@
 - 11.0-BETA_test1
 - 11.0-BETA_test2
 - 10.10_test1
+- 10.10_test2
