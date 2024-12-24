@@ -68,3 +68,4 @@
 - 11.0-BETA_test3
 - 10.10_release
 - 10.11_test1
+- 10.11_test2
