@@ -77,3 +77,4 @@
 - 11.1_test1
 - 10.12_release
 - 11.2_test1
+- 11.2_test2
