@@ -80,3 +80,4 @@
 - 11.2_test2
 - 11.2_unrelease
 - 10.13_next1
+- 11.3-BETA_test1
