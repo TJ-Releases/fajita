@@ -90,3 +90,4 @@
 - 11.4_test4
 - 11.5_test1
 - 11.5_release
+- 11.6_test1
